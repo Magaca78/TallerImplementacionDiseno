@@ -1,0 +1,12 @@
+12345,Diego,0110,Fundamentales
+54322,Santiago,0128,Teoria de Sistemas
+89897,Monica,0110,Fundamentales
+09904,Sofia,0113,Programacion 1
+55638,Sebastian,0128,Teoria de Sistemas
+09904,Sofia,0222,Biologia para Ingenieria
+89897,Monica,0113,Programacion 1
+09904,Sofia,0107,Fisica 1
+55638,Sebastian,0110,Fundamentales
+54322,Santiago,0222,Biologia para Ingenieria
+09904,Sofia,0128,Teoria de Sistemas
+89897,Monica,0113,Programacion 1
