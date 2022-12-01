@@ -11,6 +11,7 @@ public class VentanaInscripciones {
         try {
             for (String dato : control.procesarArchivo("src/datos.txt")) {
                 System.out.println(dato);
+                System.out.println("");
 
             }
 
